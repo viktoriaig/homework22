@@ -101,4 +101,8 @@
 
 ## Удаление веток
 
+* git branch -d banch_name
+
+  Удаляет ветку с именем branch_name
+  
 ## --info
